@@ -1,0 +1,5 @@
+{:tasks
+ {run  {:doc "Run the app"
+        :task (clojure "-M:run")}
+  test {:doc "Run the test suite"
+        :task (clojure "-M:test")}}}

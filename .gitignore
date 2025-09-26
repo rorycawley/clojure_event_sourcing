@@ -12,3 +12,11 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+/target
+/.cpcache
+/.calva
+/.lsp
+/.clj-kondo/.cache
+/.nrepl-port
+/.idea
+/.DS_Store
